@@ -3,6 +3,8 @@ Class git homework
 
 
 Technical Homework 3: Make It Yours
+https://github.com/frankbellocchio/CapstoneFall2020
+
 
 Exercise 3.1: A Personal Touch (12 points)
 Do you have a personal website? If you don’t, you should. Buying a domain
